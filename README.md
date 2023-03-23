@@ -7,7 +7,7 @@ This is a mock-up company home webpage made for a class challenge, the site was 
 ![a screenshot of the Horiseon webpage as viewed in a web browser](./assets/images/horiseonScreenshot.png)
 
 ## Webpage Link:
-> **Use this link to view the webpage:** [link to the Horiseon webpage](antimatternova.github.io/Horiseon-Social-Services/)
+> **Use this link to view the webpage:** [link to the Horiseon webpage](https://antimatternova.github.io/Horiseon-Social-Services/)
 
 ## External Materials:
 This site's main structer was provided by the education team at **Kansas University**.
